@@ -40,18 +40,18 @@
 <div class="col">
 <div class="header_content d-flex flex-row align-items-center justify-content-start">
 <div class="logo_container">
-<a href="index.html">
+<a href="index.php">
 <img src="uniliden.png" class="logo-text" alt="" style="width: 150px; height: 50px;">
 </a>
 </div>
 <nav class="main_nav_contaner ml-auto">
 <ul class="main_nav">
-<li><a href="blog_page.html">Nasıl Çalışır</a></li>
-<li><a href="about_us.html">Kaydol</a></li>
-<li><a href="contact.html">Giriş</a></li>
+<li><a href="blog_page.php">Nasıl Çalışır</a></li>
+<li><a href="about_us.php">Kaydol</a></li>
+<li><a href="contact.php">Giriş</a></li>
 </ul>
 <div class=" Post-Jobs">
-<a href="post_job.html" class="">
+<a href="post_job.php" class="">
 Ders Al
 </a>
 </div>
@@ -83,9 +83,9 @@ Ders Al
 <nav class="menu_nav">
 <ul class="menu_mm">
 
-<li class="menu_mm"><a href="blog_page.html">Nasıl Çalışır</a></li>
-<li class="menu_mm"><a href="about_us.html">Kaydol</a></li>
-<li class="menu_mm"><a href="contact.html">Giriş</a></li>
+<li class="menu_mm"><a href="blog_page.php">Nasıl Çalışır</a></li>
+<li class="menu_mm"><a href="about_us.php">Kaydol</a></li>
+<li class="menu_mm"><a href="contact.php">Giriş</a></li>
 </ul>
 </nav>
 </div>

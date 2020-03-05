@@ -62,7 +62,7 @@
 <div class="col">
 <div class="header_content d-flex flex-row align-items-center justify-content-start">
 <div class="logo_container">
-<a href="index.html">
+<a href="index.php">
 <img src="imags/logo.png" class="logo-text" alt="">
 </a>
 </div>
@@ -72,24 +72,24 @@
 <a class="dropdown-toggle" data-toggle="dropdown" href="#">Home
 <span class="caret"></span></a>
 <ul class="dropdown-menu">
-<li><a href="index.html">Home variation 1</a></li>
-<li><a href="index2.html">Home variation 2</a></li>
+<li><a href="index.php">Home variation 1</a></li>
+<li><a href="index2.php">Home variation 2</a></li>
 </ul>
 </li>
 <li class="dropdown ">
 <a class="dropdown-toggle" data-toggle="dropdown" href="#">Job
 <span class="caret"></span></a>
 <ul class="dropdown-menu">
-<li><a href="job_category.html">Job List</a></li>
-<li><a href="job_detail.html">Job Detail</a></li>
+<li><a href="job_category.php">Job List</a></li>
+<li><a href="job_detail.php">Job Detail</a></li>
 </ul>
 </li>
-<li><a href="blog_page.html"> Blog</a></li>
-<li><a href="about_us.html">About</a></li>
-<li class="active"><a href="contact.html">Contact</a></li>
+<li><a href="blog_page.php"> Blog</a></li>
+<li><a href="about_us.php">About</a></li>
+<li class="active"><a href="contact.php">Contact</a></li>
 </ul>
 <div class=" Post-Jobs">
-<a href="post_job.html" class="">
+<a href="post_job.php" class="">
 Post Jobs
 </a>
 </div>
@@ -124,21 +124,21 @@ Post Jobs
 <a class="dropdown-toggle" data-toggle="dropdown" href="#">Home
 <span class="caret"></span></a>
 <ul class="dropdown-menu">
-<li><a href="index.html">Home 1</a></li>
-<li><a href="index2.html">Home 2</a></li>
+<li><a href="index.php">Home 1</a></li>
+<li><a href="index2.php">Home 2</a></li>
 </ul>
 </li>
 <li class="dropdown menu_mm">
 <a class="dropdown-toggle" data-toggle="dropdown" href="#">Job
 <span class="caret"></span></a>
 <ul class="dropdown-menu">
-<li><a href="job_category.html">Job List</a></li>
-<li><a href="job_detail.html">Job Detail</a></li>
+<li><a href="job_category.php">Job List</a></li>
+<li><a href="job_detail.php">Job Detail</a></li>
 </ul>
 </li>
-<li class="menu_mm"><a href="blog_page.html">Blog</a></li>
-<li class="menu_mm"><a href="about-us.html">About</a></li>
-<li class="menu_mm"><a href="contact.html">Contact</a></li>
+<li class="menu_mm"><a href="blog_page.php">Blog</a></li>
+<li class="menu_mm"><a href="about-us.php">About</a></li>
+<li class="menu_mm"><a href="contact.php">Contact</a></li>
 </ul>
 </nav>
 </div>
